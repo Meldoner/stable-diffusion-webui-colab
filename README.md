@@ -1,2 +1,2 @@
 # Быстрое развёртывание популрных моделей stable-diffusion в google colab
-h1 Просто нажми на файл Stable-Diffusionv2 и нажми open in collab
+Просто нажми на файл Stable-Diffusionv2 и нажми open in collab
